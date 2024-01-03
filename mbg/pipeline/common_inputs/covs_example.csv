@@ -1,0 +1,7 @@
+covariate,measure,gbd,include
+access2,mean,F,T
+ntl_harm_2,mean,F,T
+tt_hcf,walking_tt,F,T
+edu_mean_stage2,mean,F,T
+ghslurbanicity,mean,F,T
+worldpop,total,F,T
